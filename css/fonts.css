@@ -1,0 +1,26 @@
+/*__YEKAN___*/
+@font-face {
+		font-family: "yekan";
+		src: url(fonts/Yekan.eot);
+		src: url(fonts/Yekan.eot?#iefix) format("embedded-opentype"), url(fonts/Yekan.woff) format("woff"), url(fonts/Yekan.ttf) format("truetype"), url(fonts/Yekan.svg#BYekan) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___BBCNassim___*/
+@font-face {
+		font-family: "bbcnasim";
+		src: url(fonts/BBCNassim.eot);
+		src: url(fonts/BBCNassim.eot?#iefix) format("embedded-opentype"), url(fonts/BBCNassim.woff) format("woff"), url(fonts/BBCNassim.ttf) format("truetype"), url(fonts/BBCNassim.svg#BBCNassim) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___GESS___*/
+@font-face {
+		font-family: "gess";
+		src: url(fonts/GE_SS_Two_Medium.eot);
+		src: url(fonts/GE_SS_Two_Medium.eot?#iefix) format("embedded-opentype"), url(fonts/GE_SS_Two_Medium.woff) format("woff"), url(fonts/GE_SS_Two_Medium.ttf) format("truetype"), url(fonts/GE_SS_Two_Medium.svg#GE_SS_Two_Medium) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
